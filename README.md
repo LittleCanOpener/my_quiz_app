@@ -1,33 +1,55 @@
 # Dice Roller - Dart & Flutter Project
-<h1>Preview</h1>
-<img src="#"><br>
-<h2>Placeholder</h2>
-<table>
-  <tr>
-    <th>Main</th>
-  </tr>
-    <tr>
-      <td>
-        <img src="#"><br>
-      </td>
-  </tr>
-  <tr>
-    <th>Roll Dice</th>
-  </tr>
-  <tr>
-      <td>
-        <img src="#"><br>
-        <img src="#"><br>
-      </td>
-  </tr>
-      <th>Container</th>
-  </tr>
-  <tr>
-      <td>
-        <img src="#"><br>
-      </td>
-  </tr>
-</table>
+<h2>Screenshots</h2>
+  <details>
+      <summary>Main <small><strong>(Click me)</strong></small></summary>
+      <img src="./assets/images/screenshots/main.png"><br>
+  </details>
+  <details>
+      <summary>Answer Button <small><strong>(Click me)</strong></small></summary>
+      <img src="./assets/images/screenshots/answer_button/answer_button.png"><br>
+  </details>
+  <details>
+      <summary>Questions <small><strong>(Click me)</strong></small></summary>
+      <img src="./assets/images/screenshots/questions/questions_p1.png"><br>
+      <img src="./assets/images/screenshots/questions/questions_p2.png"><br>
+  </details>
+  <details>
+      <summary>Questions Identifier <small><strong>(Click me)</strong></small></summary>
+      <img src="./assets/images/screenshots/questions_identifier/questions_identifier.png"><br>
+  </details>
+  <details>
+      <summary>Questions Screen <small><strong>(Click me)</strong></small></summary>
+      <img src="./assets/images/screenshots/questions_screen/questions_screen_p1.png"><br>
+      <img src="./assets/images/screenshots/questions_screen/questions_screen_p2.png"><br>
+  </details>
+  <details>
+      <summary>Questions Summery <small><strong>(Click me)</strong></small></summary>
+      <img src="./assets/images/screenshots/questions_summery/questions_summery.png"><br>
+  </details>
+  <details>
+      <summary>Questions Summery Item <small><strong>(Click me)</strong></small></summary>
+      <img src="./assets/images/screenshots/questions_summery_item/questions_summery_item_p1.png"><br>
+      <img src="./assets/images/screenshots/questions_summery_item/questions_summery_item_p2.png"><br>
+  </details>
+  <details>
+      <summary>Quiz <small><strong>(Click me)</strong></small></summary>
+      <img src="./assets/images/screenshots/quiz/quiz_p1.png"><br>
+      <img src="./assets/images/screenshots/quiz/quiz_p2.png"><br>
+  </details>
+  <details>
+      <summary>Quiz Questions <small><strong>(Click me)</strong></small></summary>
+      <img src="./assets/images/screenshots/quiz_questions/quiz_questions.png"><br>
+  </details>
+  <details>
+      <summary>Result Screen <small><strong>(Click me)</strong></small></summary>
+      <img src="./assets/images/screenshots/results_screen/results_screen_p1.png"><br>
+      <img src="./assets/images/screenshots/results_screen/results_screen_p2.png"><br>
+  </details>
+  <details>
+      <summary>Start Screen <small><strong>(Click me)</strong></small></summary>
+      <img src="./assets/images/screenshots/start_screen/start_screen.png"><br>
+      <img src="#"><br>
+  </details><hr>
 <h1>Technologies</h1>
 <ol>
     <li>
