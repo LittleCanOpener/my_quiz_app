@@ -1,4 +1,7 @@
 # Dice Roller - Dart & Flutter Project
+<h2>Prewview</h2>
+<img src="./assets/images/screenshots/previewp1.png"><br>
+<img src="./assets/images/screenshots/previewp2.png">
 <h2>Screenshots</h2>
   <details>
       <summary>Main <small><strong>(Click me)</strong></small></summary>
